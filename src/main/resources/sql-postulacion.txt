@@ -1,0 +1,6 @@
+select * from postulacion.plantilla pla;
+
+insert into postulacion.plantilla (id,nit,razon_social,numero_docto,notas,total_cop,cuenta_cobro,numero_radicado,valor_pagar)
+values (1,'89030346','HOSPITAL UNIVERSITARIO DEL VALLE.','FE-00211284','CTA.211284 MAR/24 ESE HOSPITAL UNIVERSITARIO DEL VALLE EVARISTO GARCIA - CALI ( VALLE ) RAD. 404255 CONT. 229-0ES230001',4163063,'211284','404255',4163063.00); 
+insert into postulacion.plantilla (id,nit,razon_social,numero_docto,notas,total_cop,cuenta_cobro,numero_radicado,valor_pagar)
+values(2,'890303461','HOSPITAL UNIVERSITARIO DEL VALLE.','FE-00211588','CTA.211588 FEB/24 ESE HOSPITAL UNIVERSITARIO DEL VALLE EVARISTO GARCIA - CALI ( VALLE ) RAD. 404270 CONT. 229-0ES230001',264274,'211588','404270',264274.00); 
